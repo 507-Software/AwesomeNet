@@ -20,13 +20,11 @@ AwesomeNet is a community-driven platform for distributed computing. These guide
 ## Security
 
 1.  Do not attempt to compromise the security of AwesomeNet or its users.
-2.  Report any security vulnerabilities to the administrators immediately.
+2.  Report any security vulnerabilities to the maintainors immediately.
 3.  Do not attempt to access data that you are not authorized to access.
+4.  Do not attempt to distribute malware throughout AwesomeNet. All actions are logged and availiable publically.
 
 ## Enforcement
 
 Violations of these guidelines may result in warnings, temporary suspensions, or permanent bans from AwesomeNet. The administrators reserve the right to take appropriate action to ensure the safety and integrity of the network.
 
-## Contact
-
-If you have any questions or concerns about these guidelines, please contact the administrators at [contact information].
